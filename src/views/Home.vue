@@ -33,13 +33,7 @@
         color="blue"
       ></v-sparkline>
     </v-card>
-
-
-
   </v-container>
-
-
-
 </template>
 
 <script>
