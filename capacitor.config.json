@@ -1,0 +1,6 @@
+{
+  "appId": "com.brandonfennell.echelon",
+  "appName": "Echelon",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
